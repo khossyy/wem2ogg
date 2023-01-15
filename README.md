@@ -1,9 +1,13 @@
 # wem2ogg
 A simple wem to ogg converter.
 
-## How to use:
-- Download latest release and place it somewhere (ex. `C:\Users\USER\Documents\wem2ogg`) 
-- Move your .wem files into the directory you placed wem2ogg in 
+## Usage
+### Download guide
+- Click 'Code', then 'Download ZIP'
+- Unpack the .rar file into a directory of your choosing (ex. `C:\Users\USER\wem2ogg`)
+
+### Run guide
+- Move/place the .wem files you would like to extract in the directory you unpacked wem2ogg in
 - Run `convert.bat`
 
 None of the programs/code were made by me; the aim of this repository was to make a simple wem to ogg converter using the programs and code credited at the bottom. <br>
